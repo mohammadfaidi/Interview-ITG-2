@@ -1,0 +1,15 @@
+Runtime and compile time are programming terms that refer to different stages of software program development. Compile-time is the instance where the code you entered is converted to executable while Run-time is the instance where the executable is running. The terms "runtime" and "compile time" are often used by programmers to refer to different types of errors too.
+
+Compile-time checking occurs during the compile time. Compile time errors are error occurred due to typing mistake, if we do not follow the proper syntax and semantics of any programming language then compile time errors are thrown by the compiler. They wont let your program to execute a single line until you remove all the syntax errors or until you debug the compile time errors. The following are usual compile time errors:
+
+Syntax errors
+Typechecking errors
+Compiler crashes (Rarely)
+
+-----------------------------------------------------
+
+Run-time type checking happens during run time of programs. Runtime errors are the errors that are generated when the program is in running state. These types of errors will cause your program to behave unexpectedly or may even kill your program. They are often referred as Exceptions . The following are some usual runtime errors:
+
+Division by zero
+Dereferencing a null pointer
+Running out of memory

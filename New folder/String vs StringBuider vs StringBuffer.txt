@@ -1,0 +1,10 @@
+- Çá String ÇáÚÇÏí åæ Immutable íÚäí "ÛíÑ ŞÇÈá ááÊÛííÑ".
+- Çá StringBuffer æÇá StringBuider åã Mutable íÚäí "ŞÇÈáííä ááÊÛííÑ".
+
+- Çá StringBuffer Èßæä Thread Safe  æó  Synchronized ÈíäãÇ Çá StringBuider áÃ.
+  ãÔÇä åíß Çá StringBuider ÃÓÑÚ ÈßËíÑ ãä Çá StringBuffer.
+
+
+ÓÄÇá: áæ ÚäÇ ßáãÉ ãÑæÑ¡ ãíä ÃİÖá ßÜ Security ÃÍØåÇ ÌæÇ String ÚÇÏí æáÇ ÌæÇ Array of Characters¿
+ÇáÌæÇÈ: Array of Characters
+ÇáÊÚáíá: https://stackoverflow.com/questions/8881291/why-is-char-preferred-over-string-for-passwords

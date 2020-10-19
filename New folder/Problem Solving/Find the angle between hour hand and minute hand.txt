@@ -1,0 +1,7 @@
+A = 30*H - (11*M/2)
+
+where H= hour hand, M= Minute hand.
+
+for this problem, H= 9, M=45; using the above formula we’ll get
+
+A = 30*9 - (11*45/2) = 270 - (495/2) = 270 - 247.5 = 22.5 degree

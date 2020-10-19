@@ -1,0 +1,25 @@
+﻿- ال Override: إنه ال Sub-Class أو ال Child-Class يعمل Implementation معين على Function وارثه من Super-Class أو Parent-Class.
+
+- مشان أعمل Override على Function معين في ال Sub-Class لازم ال Function
+  يكون إله نفس ال Name ونفس ال Parameters ونفس ال Return Type للـــــ Function الموجود في ال Super-Class.
+
+- ال Private Method ما بقدر نعمله Override.
+- ال Public Method + Potected Method بقدر أعملهم Override.
+- ال Potected Method بقدر أعمله Override وأخليه Public Method في ال Sub-Class.
+
+- يمكن عمل Override ل Private Method فقط ... عن طريق إنشاء Class (Inner) داخل كلاس Class (Outer) ومن ثم يمكن للفنكشن داخل ال Inner عمل Override ل Function موجود داخل ال Outer.
+Outer o = new Outer()
+Inner  i   = o.new Inner()
+i.functionName()
+
+- ال Final Method ما بقدر أعمله Override.
+- ال Static Method ما بقدر أعمله Override بس بقدر أعيد كتابته في ال Sub-Class بس مع هيك رح يوخذ الفنكشن من ال Super مش من ال Sub (نفس ال Final يعني).
+- فقط يتم عمل Override على ال Functions التي يتم وراثتها، بمعنى إذا لم نستطع وراثة Function معين فهذا يعني أنّه لا يمكن عمل Override له.
+
+- ما بقدر أعمل Override للـــ Constructor.
+
+- إذا تم عمل Override ل Function وأردنا إستخدام ال Function من ال Super (أي قبل ال Override) مع ال Override ف يمكن إستخدام كلمة super.
+مثال: صورة إسم "Overriding".
+
+
+

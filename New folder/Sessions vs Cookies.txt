@@ -1,0 +1,5 @@
+- Cookies are stored on the users computer (Unreliable).
+- Sessions are stored on the server (Reliable).
+
+- Cookies last longer than sessions (Days, Months Even Years).
+- Sessions expire when the browser is closed.

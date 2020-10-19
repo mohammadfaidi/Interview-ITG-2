@@ -1,0 +1,10 @@
+- Database Normalization: Normalization is a database design technique which organizes tables in a manner that reduces redundancy and dependency of data. It divides larger tables to smaller tables and links them using relationships.
+
+- First Normal Form (1NF): Remove Repeated Group (multi-value).
+- Second Normal Form (2NF): 1NF + Remove Partial Dependency.
+- Third Normal Form (3NF): 2NF + Remove Transitive Dependency.
+
+- ÈÇá 1NF áãÇ íßæä ÚäÏí Multi-Value ÈÚãá ÌÏæá ÌÏíÏ Èßæä İíå ÇáÚãæÏ Çááí Èßæä Multi æßãÇä Çá Primay Key ÊÈÚ ÇáÌÏæá ÇáÃÕáí æÈÇáÌÏæá ÇáÃÕáí ÈŞíã ÇáÚãæÏ ÊÈÚ Çá Multi.
+
+- ÅĞÇ ÕÇÑ ÚäÏí ÊßÑÇÑ ÈÃßËÑ ãä Column ÈÚãá ÇáÍßí Çááí İæŞ ÈíäãÇ áæ ãÇ ÕÇÑ ÚäÏí ÊßÑÇÑ ÅáÇ È column æÇÍÏ ãËáÇğ ÚÇÏí ÈÎáíå æãÇ ÈÚãá ÌÏæá ÌÏíÏ.
+

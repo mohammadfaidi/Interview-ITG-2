@@ -1,0 +1,19 @@
+﻿- ال Overloading: إنه يكون عندي أكثر من فنكشن تحت إسم واحد، بس بختلفو عن بعض بال Parameters.
+- بختلفو عن بعض ب عدد ال Parameters أو نوع ال Parameters أو الجهتين مع بعض.
+
+- بقدرش أعمل Overloading لــ Methods بناءً على ال Return Type.
+public int foo() { return 10; } 
+public char foo() { return 'a'; } 
+
+- الطريقة اللي فوق خاطئة بس مع هيك بقدر أعمل Overloading بناءً على ال Return Type (يكونو يختلفو بال Parameters).
+public int foo(int a) { return 10; } 
+public char foo(int a, int b) { return 'a'; }
+
+- بقدر أعمل Overloading للـــ Static Method عادي بس زي ما قلنا لازم يختلفو بال Parameters سواء كنوع أو كعدد.
+public static int foo(int a) { return 10; } 
+public static char foo(int a, int b) { return 'a'; }
+
+- طبعاً ما بقدر أعمل Overloading للـــ Static Method وعندهم نفس Parameters (لازم يختلفو ال Parameters).
+
+- بقدر أعمل Overloading لل Main تبع الجافا عادي.
+مثال: صورة إسم "Overloading".

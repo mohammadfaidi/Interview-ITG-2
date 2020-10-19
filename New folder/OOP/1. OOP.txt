@@ -1,0 +1,41 @@
+- «б OOP: еж г’ЎбЌ »‘н— ≈бм √дше бџ… «б»—гћ… »  Џ«гб гЏ Classes жу Objects.
+- «беѕЁ гд «б OOP еж —»Ў «б Data ж«б Methods «б н   Џ«гб гЏ е–ец «б Data ÷гд жЌѕ… ж«Ќѕ….
+
+- ё»б «б OOP я«д «бг»—гћнд н” ќѕгж procedural programming methods ж«ббн я«д «б»—д«гћ Џ»«—… Џд ћ“Ѕ ж«Ќѕ ж»‘ џб sequential.
+  жя«д е–« «б‘н џн— readable ж≈–« я«д «б»—д«гћ я»н— жя«д Ёне г‘яб… √ж Ёне  ЌѕнЋ бб»—д«гћ я«д Ёне ’Џж»… ж≈” еб«я жё  Ўжнб.
+
+- «б Class еж Џ»«—… Џд ≈д‘«Ѕ джЏ ћѕнѕ гд «бѕ« « »÷г Variables жу Methods «ббн —Ќ н ‘«—яж Ёне« яб «б Objects.
+
+- «б Object еж Џ»«—… Џд дгж–ћ гд «б Class (еж «ббн —Ќ нгЋб «б Class)... яб Object ≈бе 3 ‘џб« :
+   1. «б State: «б attributes бб Object.
+   2. «б Behavior: «б methods бб Object.
+   3. «б Identity: «б≈”г «бќ«’ »«б Object.
+
+- бг« √д‘√ Class г« »’н— √н  ќ’н’ (allocated) Ён «б Memory »ндг« бг« √д‘√ Object гд «б Class жё е« »’н—  ќ’н’.
+
+- ≈–« я«д Џдѕн Class Ё«÷н ... »ёѕ— √д‘√ где Object Џ«ѕн.
+
+- ≈–« Џгб  Parameterized Constructor ћж« «б Class ж»Џѕе« √д‘√  Object »ѕжд г« √ЏЎне Parameters ... г« »“»Ў° б«“г ≈д‘«Ѕ «б Objects н ж«Ёё гЏ «б Constructor «ббн Џдѕн.
+
+- «б OOP Concepts: Џд« √—»Џ гЁ«енг ќ«’… »«б OOP:
+  1. Abstraction:
+      - нхё’ѕ »е ≈ўе«— «бгЏбжг«  «б÷—ж—н… ЁёЎ ж≈ќЁ«Ѕ «б Ё«’нб (гЋ«б: ён«ѕ… «б”н«—…).
+      - нгяд «бЌ’жб Џбм «б Abstraction гд ќб«б «б Interfaces жу «б Abstract Classes (гб«Ќў…: Џдѕ ≈” ќѕ«г «б Interfaces н г «бЌ’жб Џбм 100% гд «б Abstraction).
+
+  2. Encapsulation:
+      - нхё’ѕ »е« «б—»Ў »нд «бѕ« « «ббн Џдѕн ж»нд «б Functions «ббн » Ќяг (» б«Џ» √ж »ц√Ћ—) Ёне« (гЋ«б: «б‘—я… Ёне« 3 √ё”«г).
+      - Ў—нё… ¬хќ—м б’н«џ… «б Encapsulation: «бѕ—Џ «ббн »Ќгн «бѕ« « «ббн Џдѕн гд «бж’жб ≈бне« гд ќ«—ћ е–« «бѕ—Џ.
+       - »—гћн«р: «бг џн—«  Џдѕн » яжд Private жнгяд «бж’жб ≈бне« ЁёЎ гд ќб«б Public Method (н г Џгб Set √ж Get √ж ябнег«).
+
+  3. Inheritence
+      - гд √ег «б‘џб«  «ббн ўе—  Ён «б OOP жнхё’ѕ Ёне« «бж—«Ћ… гд Class б№№ Class.
+      - »яжд Ёне Џдѕн Class я»н— »”гне Super Class √ж Parent Class √ж Base Class ж»яжд Џдѕн Class ’џн— »”гне Sub Class √ж Child Class √ж Derived Class √ж Extended Class.
+      - яб «бЁя—… ≈де «б Class «б’џн— »ж—Ћ гд «б Class «бя»н— же–« нЏдн Ќ’жбе Џбм ћгнЏ «б Variables ж«б Methods «бќ«’… »«б Class «бя»н— »«б≈÷«Ё… бб Variables ж«б Methods«бќ«’… Ёне.
+      - √дж«Џ «бж—«Ћ…: Single Inheritance ° Multilevel Inheritance ° Hierarchical Inheritance ° Multiple Inheritance (Through Interfaces) ° Hybrid Inheritance(Through Interfaces)
+      - «бябг… «бќ«’… »«бж—«Ћ… extends гд Class жу implements гд Interface.
+      - нгяд «бж—«Ћ… ЁёЎ гд Class ж«Ќѕ (√н нгяд Џгб extends г—… ж«Ќѕ ЁёЎ). бг«–«њ б√дше бж я«д бѕнш «Ћд«д Classes нёжгжд »дЁ” «б‘н жбяд »Ў—нё… гќ бЁ… Ёжё е« «б Sub Class г« »Џ—Ё нќ «— гнд.
+      - нгяд Џгб implements б√яЋ— гд Interface »дЁ” «бжё . бг«–«њ б√де «б Interface »Ќѕѕ ‘ж «бяб«” »Џгб »” г« »Ќѕѕ янЁ нЏгб «б≈‘н (what the class is doing, not how it is doing it).
+
+  4. Polymorphism
+      - нхё’ѕ »е« Ќ—Ён«р " Џѕѕ «б√‘я«б" .. нЏдн ≈де «б≈‘н »ёѕ— √Џгбе »√яЋ— гд Ў—нё… (гЋ«б: «б“бг… »дЁ” «бжё  нгяд няжд √» ж“жћ жгжўЁ).
+      - √ег г’ЎбЌнд гжћжѕнд »«б Polymorphism ег: Method Overloading жу Method Overriding.

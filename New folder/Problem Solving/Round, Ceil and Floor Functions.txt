@@ -1,0 +1,17 @@
+public class HelloWorld{
+	public static void main(String []args){
+		double x = 6.1;
+
+		// Round Function
+
+		System.out.println((int)(x+0.5));
+
+		// Floor Function
+		System.out.println((int)x);
+
+		// Ceil Function
+		System.out.println((int)x+1);
+	}
+
+}
+

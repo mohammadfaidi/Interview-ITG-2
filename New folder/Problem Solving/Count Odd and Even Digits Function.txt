@@ -1,0 +1,10 @@
+void EvenOdd (int num, int& evens, int& odds) {
+	evens = odds = 0;
+	while (num != 0) {
+		if (num % 2 == 0)
+			evens++;
+		else
+			odds++;
+		num /= 10;
+	}
+}

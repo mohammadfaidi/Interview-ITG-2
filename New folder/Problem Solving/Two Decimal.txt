@@ -1,0 +1,10 @@
+public class HelloWorld{
+	public static void main(String []args){
+	double a=12.98712;
+	a=a*100;
+	a=(int)a;
+	a=a/100;
+	System.out.println(a);
+	}
+
+}

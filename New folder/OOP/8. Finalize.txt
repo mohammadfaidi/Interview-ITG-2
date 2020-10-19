@@ -1,0 +1,5 @@
+- Çá Finalize åæ ãíËæÏ íÊã ÅÓÊÏÚÇÆå ãä ÎáÇá Çá Garbage Collector ŞÈá ÚãáíÉ "ÍĞİ Çá Object".
+
+- íÊã Úãá clean-up activity ÈãÚäì íÊã ÊÍÑíÑ ÇáãæÇÑÏ (release resources) ÇáÊí ÅÓÊÎÏãåÇ Çá Object ŞÈá ÅÒÇáÊå äåÇÆíÇğ ãä Çá Memory.
+
+- ÇáãæÇÑÏ (Resources) ãËá: Database Connection æó Network Connection.

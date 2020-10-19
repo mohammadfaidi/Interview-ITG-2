@@ -1,0 +1,13 @@
+- «б Final гЏд«е« Non-Access Modifier ж»ёѕ— √” ќѕге« гЏ «б Variable жу «б Method жу «б Class.
+
+- «б Final Variable нЏдн √дше б« нгяд  ЌѕнЋ ёнг е же–« нЏдн √дше нћ»  Ќѕнѕ «бёнг… »Џѕ «б Џ—нЁ.
+- «б Final Method нЏдн »√дш е–« «б Method б« нгяд Џгб Override бе Џдѕ «бж—«Ћ….
+- «б Final Class нЏдн »√дш е–« «б Class б« нгяд «бж—«Ћ… где.
+
+- Џдѕг« н г  Џ—нЁ Final Class н г  бё«∆н«р  Џ—нЁ «б Methods ѕ«ќбе Final жбяд «б Variables б«.
+
+
+- Џдѕ  Џ—нЁ Array √ж Object Џбм √дше Final ... нгяд  џнн— ёнг гЏнд… гдег.
+гЋ«б: бж Џд« г’ЁжЁ… Final Ёне« 10 Џд«’—° »ёѕ— √Џгб еня Arr[0] = 10
+»” г« »ёѕ— √Џгб еня .. Arr1 = Arr2
+нЏдн »ёѕ— √џн— ёнг «б Array √ж «б Object »” г« »ёѕ— √д”» «б Final Array б№№№ Array Ћ«дн… ж«б Final Object »—÷ж дЁ” «б≈‘н.

@@ -1,0 +1,19 @@
+- «б Interface еж Џ»«—… Џд Pure Abstract Class (»ЏЎня 100% Abstraction)° б√дше яб «б Methods «ббн ћж« е » яжд Abstract Methods.
+- б« нгяд ≈д‘«Ѕ Objects гд «б Interface.
+- ћгнЏ «б Methods ѕ«ќбе » яжд Abstract Methods √н н г  Џ—нЁе« »ѕжд Body.
+- «б Interface нЏдн »≈ќ ’«— "‘ж «б Class »Џгб »” »ѕжд  ж÷нЌ ¬бн… «бЏгб".
+- Ў—нё…  Џ—нЁ «б Interface ея–«   ...    { } interface interface_name
+
+- √н Variable н г  Џ—нЁе ѕ«ќб «б Interface нёжг «б Compiler » Џ—нЁе  бё«∆н«р Џбм √дше Public жу Static жу Final.
+- √н Method н г  Џ—нЁе ѕ«ќб «б Interface нёжг «б Compiler » Џ—нЁе  бё«∆н«р Џбм √дше Public жу Abstract.
+- б« нгяд  Џ—нЁ √н Method ѕ«ќб «б Interface Џбм √дше Static √ж Final.
+
+- «б Interface нгяд бе ж—«Ћ… Interface ¬ќ— (ж«Ќѕ √ж √яЋ—) Џд Ў—нё extends.
+- «б Class нёжг »Џгб ж—«Ћ… б Interface (ж«Ќѕ √ж √яЋ—) Џд Ў—нё Implements.
+- «б Interface б« нгяд бе √д н—Ћ Class.
+- √н Class нёжг »Џгб Implements б Interface нћ» √д нёжг » Џ—нЁ ћгнЏ «б Methods «бгжћжѕ… »ѕ«ќб «б Interface б√де« Abstract Methods.
+- Џдѕг« нёжг Interface »ж—«Ћ… Interface ¬ќ—° жгд Ћг нёжг Class »ж—«Ћ… е–« «б Interface° нћ» Ён ѕ«ќб е–« «бяб«” √д н г  Џ—нЁ ћгнЏ «б Methods «бгжћжѕ… ѕ«ќб «б Interface «б√жб ж«б Interface «бЋ«дн.
+
+
+- «б Interface гхЁнѕ Ён Ќ«б«  гЏнд… гЋб«р Џдѕг« няжд бѕнд« ћгнЏ «б Methods Џ»«—… Џд Abstract.
+  √н √дше д—нѕ Џгб Џѕ… ‘џб«  »√яЋ— гд Ў—нё…° «б‘џб… «б√жбм (Џѕ… Ў—ё гќ бЁ…)° «б‘џб… «бЋ«дн… (Џѕ… Ў—ё гќ бЁ…)° «б‘џб… «бЋ«бЋ… (Џѕ… Ў—ё гќ бЁ…).

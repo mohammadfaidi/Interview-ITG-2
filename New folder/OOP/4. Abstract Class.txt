@@ -1,0 +1,18 @@
+- √н яб«” »Ќ жн Џбм Abstract Method Ё б«“г н Џ—Ё Џбм ≈де Abstract Class.
+- «б Abstract Class б« нгяд ≈д‘«Ѕ Objects где.
+- «б Abstract Class г« »жЁ— 100% Abstraction б√де гд «бггяд √д нЌ жн Џбм Concrete Method.
+- «б Abstract Class гд «бггяд ≈де няжд Џдѕе Constructors  жу  Member Variables  жу  Normal Methods яг« –я—д« ”«»ё«р.
+
+- н г  Џ—нЁ «б Abstract Class ея–«   ...   { } abstract class class_name
+
+- «б Concrete Method еж Method Џ«ѕн.
+
+- «б Abstract Method еж Method н г  Џ—нЁе »ѕжд жћжѕ Body бе.
+- н г  Џ—нЁ «б Body  »Џ «б Abstract Method ѕ«ќб «б Sub Class.
+- «б Abstract Method ггджЏ няжд Final √ж Static.
+- Џдѕ «бж—«Ћ… гд яб«” джЏе Abstract б«“г «б Sub Class нцЏу—шЁ ѕ«ќбе (нЏгб Body бб Method) ћгнЏ «б Abstract Method  »Џжд «б Super Class √ж нхгядя Џгб «б Sup Class Џбм √дше Abstract.
+- н г  Џ—нЁ «б Abstract Method ея–«   ...    () abstract return_type function_name
+
+
+- «б Abstract Class гхЁнѕ Ён Ќ«б«  ≈де няжд Џдѕн гЋб«р Methods » Џгб дЁ” «б≈‘н »” »√яЋ— гд Ў—нё….
+  Ёг‘«д еня »Џгб Abstract Methods ѕ«ќб «б Class жбг« «б Sub Class нж—Ћ где »Џгб Implementation ќ«’ Ёне.

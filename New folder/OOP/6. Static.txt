@@ -1,0 +1,23 @@
+- ÚהÏדÇ םÊד ÊÚÑםÝ Variable Úבל Ãהו Static וÐÇ םÚהם ÈÃהר והÇ‗ הÓÎÉ זÍםÏÉ ÝÞØ דה וÐÇ ÇבדÊÛםÑ ÈÛÖ ÇבהÙÑ ÚהÏ ÚÏÏ Çב Objects ÇבדזÌזÏÉ.
+בז ‗Çה בÏםהÇ 100 Objects זבÏםהÇ דÊÛםÑ ÅÓדו x דÚÑרÝ Úבל Ãהרו Static ÝוÐÇ םÚהם זÌזÏ x דÑÉ זÇÍÏÉ ÝÞØ.
+
+- Çב Static Variable םהÊדם בבÜÜÜ Class ‗‗ב זבםÓ בÜÜÜÜ Object דÚםה.
+- ÌדםÚ Çב Objects ÊÊÔÇÑ‗ ÞםדÉ וÐÇ ÇבדÊÛםÑ.
+- םÊד ÇבזÕזב Åבל וÐÇ ÇבדÊÛםÑ דה ÎבÇב Çב Class דÈÇÔÑÉ (בםÓ והÇ‗ Ãם ÏÇÚע בÅהÔÇÁ Object בבזÕזב Åבםו).
+
+
+
+- ÚהÏדÇ םÊד ÊÚÑםÝ Method Úבל Ãהרו Static וÐÇ םÚהם ÈÃהר וÐÇ Çב Method דÓÊÞב Úה Ãם Object דזÌזÏ Ýם וÐÇ Çב Class.
+- Çב Static Method םהÊדם בבÜÜÜ Class ‗‗ב זבםÓ בÜÜ Object דÚםה.
+- םÊד ÇבזÕזב Åבל וÐÇ Çב Method דה ÎבÇב Çב Class דÈÇÔÑÉ (בםÓ והÇ‗ Ãם ÏÇÚע בÅהÔÇÁ Object בבזÕזב Åבםו).
+- םד‗ה בוÐÇ Çב Method ÇבזÕזב ÝÞØ Åבל Çב Static Variable זבÇ םד‗הו ÇבזÕזב Åבל Çב Non-Static Variable.
+- םד‗ה בוÐÇ Çב Method ÅÓÊÏÚÇÁ ÝÞØ Çב Static Methods זבÇ םד‗הו ÅÓÊÏÚÇÁ Ãם Non-Static Method.
+- וÐÇ Çב Method בÇ םד‗ה ÅÓÊÎÏÇד This Ãז Super ÈÏÇÎבו.
+
+
+- דה ÃÔוÑ Çב Static Method וז Çב Main ÇבדזÌזÏ ÈÇבÌÇÝÇ.
+- Êד ÊÚÑםÝו Static בÃהרו םÊד ÅÓÊÏÚÇÆו ÞÈב ÅהÔÇÁ Ãם Object דה Çב‗בÇÓ.
+
+
+- ÅÐÇ ÃÑÏהÇ ÊÚÑםÝ Class Úבל Ãהרו Static ÝםÌÈ Úדב Class ÏÇÎב Class ז ם‗זה Çב Class ÇבÏÇÎבם וז Çב Static. (בÇ םד‗ה Ãה ם‗זה Çב Class ÇבÎÇÑÌם Static)
+
